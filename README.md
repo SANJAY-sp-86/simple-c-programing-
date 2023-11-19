@@ -49,4 +49,3 @@ Feel free to explore the programs and their functionalities!
 
 ---
 
-Remember to replace the placeholders with appropriate information like instructions to compile and run the programs in your repository. This README will provide a quick overview of the programs in your repository for anyone visiting your GitHub page.
